@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of arfa-drag-drop
+ */
+export * from './lib/arfa-drag-drop.component';
+export * from './lib/arfa-drag-drop.module';
+export * from './lib/services/arfa-drag-drop.service';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2FyZmEtZHJhZy1kcm9wL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyxnQ0FBZ0MsQ0FBQztBQUMvQyxjQUFjLDZCQUE2QixDQUFDO0FBQzVDLGNBQWMsdUNBQXVDLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIGFyZmEtZHJhZy1kcm9wXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvYXJmYS1kcmFnLWRyb3AuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL2FyZmEtZHJhZy1kcm9wLm1vZHVsZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9zZXJ2aWNlcy9hcmZhLWRyYWctZHJvcC5zZXJ2aWNlJztcbiJdfQ==

@@ -1,0 +1,36 @@
+{
+  "name": "arfa-drag-drop",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^13.2.0",
+    "@angular/core": "^13.2.0",
+    "@fortawesome/angular-fontawesome": "^0.10.1",
+    "@fortawesome/fontawesome-svg-core": "~1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-regular-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "module": "fesm2015/arfa-drag-drop.mjs",
+  "es2020": "fesm2020/arfa-drag-drop.mjs",
+  "esm2020": "esm2020/arfa-drag-drop.mjs",
+  "fesm2020": "fesm2020/arfa-drag-drop.mjs",
+  "fesm2015": "fesm2015/arfa-drag-drop.mjs",
+  "typings": "arfa-drag-drop.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./arfa-drag-drop.d.ts",
+      "esm2020": "./esm2020/arfa-drag-drop.mjs",
+      "es2020": "./fesm2020/arfa-drag-drop.mjs",
+      "es2015": "./fesm2015/arfa-drag-drop.mjs",
+      "node": "./fesm2015/arfa-drag-drop.mjs",
+      "default": "./fesm2020/arfa-drag-drop.mjs"
+    }
+  },
+  "sideEffects": false
+}
